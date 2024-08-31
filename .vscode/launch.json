@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jacob_63g6hvz/OneDrive/Desktop/Code stuff/opengl",
-      "program": "c:/Users/jacob_63g6hvz/OneDrive/Desktop/Code stuff/opengl/build/Debug/outDebug",
+      "cwd": "c:/Users/jacob_63g6hvz/OneDrive/Desktop/Codestuff/opengl/src",
+      "program": "c:/Users/jacob_63g6hvz/OneDrive/Desktop/Codestuff/opengl/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
